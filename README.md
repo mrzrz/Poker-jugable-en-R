@@ -1,6 +1,6 @@
 # Implementación Jugable de Texas Hold'em en R
 
-Este proyecto contiene una implementación jugable del juego de póker en su versión Texas Hold'em en **R**. A continuación se presenta un diagrama que representa un resumen del flujo del programa y de las relaciones entre funciones:
+Este proyecto contiene una implementación jugable (interactiva con bots que simulan el comportamiento de jugadores humanos) del juego de póker en su versión Texas Hold'em en **R**. A continuación se presenta un diagrama que representa un resumen del flujo del programa y de las relaciones entre funciones:
 
 ![Sin título](https://github.com/user-attachments/assets/9f097ea0-f874-4a9b-bc25-39540b0d0b79)
 
